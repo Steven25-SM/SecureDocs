@@ -1,4 +1,4 @@
-Capturas de la Auditoria de MySQL [XAMPP]
+**Capturas de la Auditoria de MySQL [XAMPP]**
 
 <img width="1602" height="700" alt="Captura de pantalla 2026-09-24 000001" src="https://github.com/user-attachments/assets/d36919e3-5da9-4e43-8d82-0cc9b4997244" />
 <img width="1591" height="797" alt="Captura de pantalla 2026-09-24 000758" src="https://github.com/user-attachments/assets/11b80058-d9a2-4e97-b237-71ea8d6a3774" />
