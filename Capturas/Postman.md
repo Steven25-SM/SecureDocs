@@ -18,3 +18,5 @@
 <img width="433" height="237" alt="Captura de pantalla 2026-09-23 143207" src="https://github.com/user-attachments/assets/18b83874-2d26-449f-86ca-b1960b71c773" />
 <img width="778" height="185" alt="Captura de pantalla 2026-09-23 143229" src="https://github.com/user-attachments/assets/72ebdfc9-a86e-4ad9-8674-46a0f2838a9c" />
 
+
+
